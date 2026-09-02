@@ -45,7 +45,7 @@ body, html {
 }
 
 .verde-claro {
-    background-color: #4d7440;
+    background-color: #6adb44;
 }
 
 .verde-oscuro {
@@ -75,13 +75,13 @@ body, html {
 }
 
 .arquero-card {
-    background-color: #2b2e2a;
+    background-color: #2d0fd8;
     color: #ffffff;
     border-color: #d9f99d;
 }
 
 .numero {
-    background-color: #1e293b;
+    background-color: #2c3544;
     color: #fff;
     width: 22px;
     height: 22px;
@@ -101,7 +101,21 @@ body, html {
     left: -6px;
     font-size: 10px;
     line-height: 1;
+    
 }
+
+.capitan {
+    position: absolute;
+    bottom: -3px;
+    left: -6px;
+    font-size: 10px;
+    line-height: 1;
+    
+
+
+    
+}
+
 
 .nombre {
     font-weight: bold;
